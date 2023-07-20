@@ -27,8 +27,6 @@
 
 # 致谢
 
-## 致谢
-
 **Acidanthera的OpenCore**
 
 **Apple的macOS**
